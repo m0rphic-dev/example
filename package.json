@@ -1,0 +1,29 @@
+{
+  "name": "m0rphic-react-example",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Example React application showcasing m0rphic SDK integration",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/m0rphic-dev/example.git"
+  },
+  "type": "module",
+  "scripts": {
+    "dev": "vite --port 3025",
+    "build": "vite build",
+    "typecheck": "tsc --noEmit",
+    "preview": "vite preview --port 3025"
+  },
+  "dependencies": {
+    "@m0rphic/react": "^0.0.1",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "@types/react": "^18.2.0",
+    "@types/react-dom": "^18.2.0",
+    "@vitejs/plugin-react": "^4.2.1",
+    "typescript": "^5.3.3",
+    "vite": "^5.0.0"
+  }
+}
