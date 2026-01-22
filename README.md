@@ -1,5 +1,9 @@
 # m0rphic React Example
 
+**[English](./README.md)** | [中文](./README.zh.md) | [日本語](./README.ja.md)
+
+---
+
 This example demonstrates how to integrate the `@m0rphic/react` SDK into your React application for AI-powered UI optimization and automatic event tracking.
 
 ## Quick Start
